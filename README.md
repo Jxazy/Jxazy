@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Fajar Octhaviano aka Jxazy from Indonesia.<br><br>- 🔭 I’m working as Back-End Developer<br>- 📚 I'm currently learning Laravel, Next.js, and Nuxt.js</p>
+<p align="left">I'm Fajar Octhaviano aka Jxazy from Indonesia.<br><br>- 🔭 I’m working as Junior Back-End Developer<br>- 📚 I'm currently learning Laravel and Golang/p>
 
 ###
 
