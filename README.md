@@ -2,7 +2,7 @@
 <h3 align="center">Backend Engineer | Golang & Node.js Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jxazy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ## 🚀 About Me
